@@ -1,0 +1,92 @@
+[
+    {
+        "pid": "1",
+        "pn": "ນະຄອນຫລວງວຽງຈັນ",
+        "pn_en": "Vientiane capital"
+    },
+    {
+        "pid": "2",
+        "pn": "ຜົ້ງສາລີ",
+        "pn_en": "Phongsali"
+    },
+    {
+        "pid": "3",
+        "pn": "ຫລວງນ້ຳທາ",
+        "pn_en": "Louang Namtha"
+    },
+    {
+        "pid": "4",
+        "pn": "ອຸດົມໄຊ",
+        "pn_en": "Oudomxai"
+    },
+    {
+        "pid": "5",
+        "pn": "ບໍ່ແກ້ວ",
+        "pn_en": "Bokeo"
+    },
+    {
+        "pid": "6",
+        "pn": "ຫຼວງພະບາງ",
+        "pn_en": "Louang Phabang"
+    },
+    {
+        "pid": "7",
+        "pn": "ຫົວພັນ",
+        "pn_en": "Houaphan"
+    },
+    {
+        "pid": "8",
+        "pn": "ໄຊຍະບູລີ",
+        "pn_en": "Xaignabouli"
+    },
+    {
+        "pid": "9",
+        "pn": "ຊຽງຂວາງ",
+        "pn_en": "Xiangkhoang"
+    },
+    {
+        "pid": "10",
+        "pn": "ວຽງຈັນ",
+        "pn_en": "Vientiane"
+    },
+    {
+        "pid": "11",
+        "pn": "ບໍລິຄຳໄຊ",
+        "pn_en": "Boli khamxai"
+    },
+    {
+        "pid": "12",
+        "pn": "ຄຳມ່ວນ",
+        "pn_en": "Khammouan"
+    },
+    {
+        "pid": "13",
+        "pn": "ສະຫວັນນະເຂດ",
+        "pn_en": "Savannakhet"
+    },
+    {
+        "pid": "14",
+        "pn": "ສາລະວັນ",
+        "pn_en": "Salavan"
+    },
+    {
+        "pid": "15",
+        "pn": "ເຊກອງ",
+        "pn_en": "Xekong"
+    },
+    {
+        "pid": "16",
+        "pn": "ຈຳປາສັກ",
+        "pn_en": "Champasak"
+    },
+    {
+        "pid": "17",
+        "pn": "ອັດຕະປື",
+        "pn_en": "Attapu"
+    },
+    {
+        "pid": "18",
+        "pn": "ໄຊສົມບູນ",
+        "pn_en": "Sisomboun"
+    }
+]
