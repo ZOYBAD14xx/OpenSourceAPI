@@ -1,55 +1,55 @@
 [
   {
-    "id":1,
+    "id":"1",
     "name": "Name of product-1",
     "brand": "xxxx",
     "price": "10,000",
     "image": "https://picsum.photos/id/231/200/300"
   },
   {
-    "id":2,
+    "id":"2",
     "name": "Name of product-2",
     "brand": "xxxx",
     "price": "20,000",
     "image": "https://picsum.photos/id/232/200/300"
   },
   {
-    "id":3,
+    "id":"3",
     "name": "Name of product-3",
     "brand": "xxxx",
     "price": "40,000",
     "image": "https://picsum.photos/id/233/200/300"
   },
   {
-    "id":4,
+    "id":"4",
     "name": "Name of product-4",
     "brand": "xxxx",
     "price": "100,000",
     "image": "https://picsum.photos/id/235/200/300"
   },
   {
-    "id":5,
+    "id":"5",
     "name": "Name of product-5",
     "brand": "xxxx",
     "price": "200,000",
-    "image": "https://picsum.photos/id/250/200/300"
+    "image": "https://picsum.photos/id/300/200/300"
   },
   {
-    "id":6,
+    "id":"6",
     "name": "Name of product-6",
     "brand": "xxxx",
     "price": "140,000",
     "image": "https://picsum.photos/id/343/200/300"
   },
   {
-    "id":7,
+    "id":"7",
     "name": "Name of product-7",
     "brand": "xxxx",
     "price": "100,000",
     "image": "https://picsum.photos/id/365/200/300"
   },
   {
-    "id":8,
+    "id":"8",
     "name": "Name of product-8",
     "brand": "xxxx",
     "price": "130,000",
